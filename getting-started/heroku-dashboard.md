@@ -10,5 +10,7 @@ This is what the dashboard looks like when you first start:
 
 ![Heroku dashboard new account](../images/heroku-dashboard-new.png)
 
-  We will explore the dashboard further as we use each of the features of Heroku.
+Explore the dashboard and review the options for scaling and managing your app
+
+
 
